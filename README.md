@@ -5,3 +5,5 @@
 <img align="center"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizuncainiao&layout=compact&theme=buefy&hide_border=true"
      alt=""/>
+
+[![dizuncainiao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dizuncainiao)](https://github.com/anuraghazra/github-readme-stats)
